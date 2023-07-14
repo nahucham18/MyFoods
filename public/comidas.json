@@ -1,0 +1,70 @@
+[
+    {
+        "titulo": "Higado encebollado con arroz",
+        "img": "",
+        "descripcion": "Es higado encebollado con arroz"
+    },
+    {
+        "titulo": "Masa para tacos",
+        "img": "",
+        "descripcion": "Es masa para tacos",
+        "ingredientes": [
+            {
+                "titulo": "Harina comun",
+                "cantidad": "250 gr"
+            },
+            {
+                "titulo": "sal",
+                "cantidad": "1 cucharadita (5gr)"
+            },
+            {
+                "titulo": "aceite",
+                "cantidad": "50 cm3"
+            },
+            {
+                "titulo": "agua",
+                "cantidad": "125 cm3"
+            },
+            {
+                "titulo": "polvo para hornear",
+                "cantidad": "1 cucharita (5gr)"
+            }
+        ],
+        "herramientas": [
+            {
+                "name": "sarten",
+                "cantidad": 1
+            },
+            {
+                "name": "vaso",
+                "cantidad": 1
+            },
+            {
+                "name": "bols-mediano",
+                "cantidad": 1
+            },
+            {
+                "name": "vaso-muychico",
+                "cantidad": 2
+            },
+            {
+                "name": "palo de amasar",
+                "cantidad": 1
+            },
+            {
+                "name": "vaso",
+                "cantidad": 1
+            }
+        ]
+    },
+    {
+        "titulo": "Relleno para tacos",
+        "img": "",
+        "descripcion": "Es relleno para tacos"
+    },
+    {
+        "titulo": "Relleno para tacos",
+        "img": "",
+        "descripcion": "Es relleno para tacos"
+    }
+]
